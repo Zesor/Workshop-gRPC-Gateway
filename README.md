@@ -23,6 +23,7 @@ Gestion des erreurs et cas d'utilisation avancés dans gRPC </br>
  - Exercice 1 : Création d'un service gRPC simple </br>
  - Exercice 2 : Ajout de fonctionnalités avancées au service gRPC (gestion des erreurs, streaming, etc.) </br>
  - Exercice 3 : Création d'une application cliente gRPC qui appelle le service créé dans l'exercice 1 </br>
+ - Exercice 4 : Rajouter la gateway pour recevoir des requêtes REST </br>
 
 ## Conclusion </br>
 
