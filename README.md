@@ -20,10 +20,11 @@ Utilisation de Protocol Buffers pour décrire les schémas de données et les se
 Création et déploiement d'un service gRPC </br>
 Gestion des erreurs et cas d'utilisation avancés dans gRPC </br>
 ### Exercices pratiques : </br>
- - Exercice 1 : Création d'un service gRPC simple </br>
- - Exercice 2 : Ajout de fonctionnalités avancées au service gRPC (gestion des erreurs, streaming, etc.) </br>
+ - Exercice 1 : Création d'un service gRPC simple
+ - Exercice 2 : Ajout de fonctionnalités avancées au service gRPC avec l'ajout du reverse proxy </br>
  - Exercice 3 : Création d'une application cliente gRPC qui appelle le service créé dans l'exercice 1 </br>
  - Exercice 4 : Rajouter la gateway pour recevoir des requêtes REST </br>
+ - Exercice 5 : Créer le client REST pour communiquer avec le server </br>
 
 ## Conclusion </br>
 
